@@ -11,11 +11,7 @@
     "github>angelnu/renovate-config:pr-labels",
     "github>angelnu/renovate-config:semantic-commits",
     "github>angelnu/renovate-config:generic-regex-manager"
-  ],  
-  "platform": "github",
-  "username": "angelnu-bot",
-  "gitAuthor": "angelnu-bot <angelnu-bot@users.noreply.github.com>",
-
+  ],
   "onboarding": false,
   "requireConfig": "optional",
   "timezone": "Europe/Berlin",

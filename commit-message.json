@@ -1,5 +1,5 @@
 {
   "commitMessageTopic": "{{depName}}",
   "commitMessageExtra": "to {{newVersion}}",
-  "commitMessageSuffix": ""
+  "commitMessageSuffix": "by-angelnu-bot"
 }

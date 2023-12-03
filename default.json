@@ -1,10 +1,10 @@
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base",
+    "config:recommended",
     ":dependencyDashboard",
     ":disableRateLimiting",
     "docker:enableMajor",
-    "docker:pinDigests",
     ":automergeDigest",
     ":enablePreCommit",
     "github>angelnu/renovate-config:commit-message",

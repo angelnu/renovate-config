@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>angelnu/renovate-config:default",
+    "github>angelnu/renovate-config:automerge-all.json",
+    "github>angelnu/renovate-config:automerge-docker-digest.json"
+  ]
+}

@@ -4,7 +4,7 @@
     {
       "matchDatasources": ["docker"],
       "automerge": true,
-      "automergeType": "branch",
+      "schedule": ["after 9am and before 12am on Saturday"],
       "matchUpdateTypes": ["minor", "patch", "digest"],
     }
   ]

@@ -5,6 +5,7 @@
       "matchManagers": ["github-actions"],
       "automerge": true,
       "schedule": ["after 9am and before 12am on Saturday"],
+      "automergeSchedule": ["after 9am and before 12am on Saturday"],
       "matchUpdateTypes": ["minor", "patch", "digest"],
       "ignoreTests": true
     }

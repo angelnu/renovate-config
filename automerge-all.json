@@ -3,8 +3,8 @@
   "packageRules": [
     {
       "automerge": true,
-      "schedule": ["after 9am and before 12am on Saturday"],
-      "automergeSchedule": ["after 9am and before 12am on Saturday"],
+      "schedule": ["after 9am and before 1pm on Saturday"],
+      "automergeSchedule": ["after 9am and before 1pm on Saturday"],
       "matchCurrentVersion": "!/^0/",
       "matchUpdateTypes": ["minor", "patch", "digest"]
     }

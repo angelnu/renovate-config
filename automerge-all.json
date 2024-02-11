@@ -3,6 +3,7 @@
   "packageRules": [
     {
       "automerge": true,
+      "automergeType": "branch",
       "schedule": ["after 9am and before 11pm on Sunday"],
       "automergeSchedule": ["after 9am and before 11pm on Sunday"],
       "matchCurrentVersion": "!/^0/",

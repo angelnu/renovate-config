@@ -4,8 +4,8 @@
     {
       "automerge": true,
       "automergeType": "branch",
-      "schedule": ["after 9am and before 11pm on Sunday"],
-      "automergeSchedule": ["after 9am and before 11pm on Sunday"],
+      "schedule": ["after 9am and before 6pm on Saturday"],
+      "automergeSchedule": ["after 9am and before 6pm on Saturday"],
       "matchCurrentVersion": "!/^0/",
       "matchUpdateTypes": ["minor", "patch", "digest"]
     }

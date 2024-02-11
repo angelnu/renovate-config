@@ -4,8 +4,9 @@
     {
       "matchDatasources": ["docker"],
       "automerge": true,
-      "schedule": ["after 9am and before 1pm on Saturday"],
-      "automergeSchedule": ["after 9am and before 1pm on Saturday"],
+      "automergeType": "branch",
+      "schedule": ["after 9am and before 6pm on Saturday"],
+      "automergeSchedule": ["after 9am and before 6pm on Saturday"],
       "matchUpdateTypes": ["digest"],
       "ignoreTests": true
     }

@@ -10,7 +10,7 @@
     "github>angelnu/renovate-config:commit-message",
     "github>angelnu/renovate-config:pr-labels",
     "github>angelnu/renovate-config:semantic-commits",
-    "github>angelnu/renovate-config:generic-regex-manager"
+    "github>angelnu/renovate-config:generic-regex-manager.json5"
   ],
   "onboarding": false,
   "requireConfig": "optional",
